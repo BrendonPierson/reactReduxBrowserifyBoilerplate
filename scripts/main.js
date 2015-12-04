@@ -1,5 +1,6 @@
 import { createStore } from 'redux';
 
+console.log("We are alive!");
 
 
 
